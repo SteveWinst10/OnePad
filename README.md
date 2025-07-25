@@ -1,7 +1,7 @@
 # OnePad
-OnePad is a macropad named after One Piece :). It has 8 keys , a rotary encoder , an 0.91 inch oled display and 8 LEDs . It uses the KMK firmware.
+OnePad is a macropad named after One Piece :) . It has 8 keys , a rotary encoder , an 0.91 inch oled display and 8 LEDs . It uses the KMK firmware.
 
-<img width="906" height="595" alt="Hackpad_v2" src="https://github.com/user-attachments/assets/5da743b9-e2d9-46ec-8bd9-4f7e763af77a" />
+<img width="906" height="595" alt="Hackpad" src="https://github.com/user-attachments/assets/5da743b9-e2d9-46ec-8bd9-4f7e763af77a" />
 
 ## BOM:
  - 1x XIAO RP2040
